@@ -30,6 +30,7 @@ export default function Projects() {
               alt={project.title}
               width={300}
               height={200}
+              priority
               className="w-full"
             />
             <div className="p-4">

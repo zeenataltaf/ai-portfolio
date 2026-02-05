@@ -11,6 +11,7 @@ export default function About() {
             alt="Profile Picture"
             width={300}
             height={400}
+            priority
             className="rounded-lg shadow-lg"
           />
         </div>
